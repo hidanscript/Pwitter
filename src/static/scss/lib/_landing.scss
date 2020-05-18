@@ -1,0 +1,14 @@
+.hero {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: $bg-color;
+}
+
+.waves {
+    position: absolute;
+    height: 300px;
+    width:100%;
+    opacity: .3;
+    bottom: 0;
+}
